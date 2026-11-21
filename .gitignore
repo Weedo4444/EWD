@@ -1,0 +1,12 @@
+# Lokalne środowisko Pythona
+/.venv/
+__pycache__/
+*.py[cod]
+
+# PyCharm i Jupyter
+/.idea/
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
+Desktop.ini
